@@ -1,0 +1,11 @@
+nltk
+scikit-learn
+gensim
+sentence-transformers
+faiss-cpu
+datasets
+pandas
+numpy
+matplotlib
+seaborn
+streamlit
